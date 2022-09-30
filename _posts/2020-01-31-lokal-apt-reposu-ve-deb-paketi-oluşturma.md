@@ -111,7 +111,7 @@ Böylelikle paketlerimizi web sunucumuzda sunmuş olduk.
 
 ![GitHub Logo](/img/bitti.png)
 
- Son olarak uygulamımızda değişiklik yaptğımızda tekrardan build edip, control dosyasında versiyonunu değiştirip deb paketini güncelleyip tekrar repomuza attığımızda, client makinemizde;
+ Son olarak uygulamamızda değişiklik yaptğımızda tekrardan build edip, control dosyasında versiyonunu değiştirip deb paketini güncelleyip tekrar repomuza attığımızda, client makinemizde;
 
 ```
 sudo apt update
